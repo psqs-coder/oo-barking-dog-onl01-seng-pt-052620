@@ -8,4 +8,5 @@ def name
 end
 end
 
-class Dog
+class Dog 
+  
